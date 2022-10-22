@@ -1,0 +1,10 @@
+.flex-column {
+    width: 25%;
+}
+.tab-content{
+    width: 75%;
+    margin-left: 30px;
+}
+.row>* {
+    padding-left: 0 !important;
+}
